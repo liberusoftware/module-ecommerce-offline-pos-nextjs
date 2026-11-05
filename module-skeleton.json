@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-offline-pos-nextjs",
+  "capabilityKey": "planned:ecommerce:offline-pos",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-ecommerce-offline-pos-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/ecommerce/nextjs/offline-pos.md",
+  "presentationPlan": "projects/ecommerce/nextjs/offline-pos.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
